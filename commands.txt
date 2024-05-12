@@ -5,4 +5,5 @@ git rm --cached
 git cmmit -m 
 git restore
 git log
-
+git log --oneline
+git config --global user.name
